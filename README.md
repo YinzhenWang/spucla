@@ -18,3 +18,6 @@ Train.py is a training file, and you need to change the path. Resnet34 is a trai
 
 Resnet_ym is a rewritten model that outputs the 512-dimensional output of the last linear layer to build the vector library.
 
+
+
+resnet34v512.bin can be gotten from https://drive.google.com/drive/u/0/folders/1vEsq87UsyTJw2dlNCTsEzf-eENm1GjG_
