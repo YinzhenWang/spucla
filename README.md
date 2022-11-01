@@ -20,4 +20,5 @@ Resnet_ym is a rewritten model that outputs the 512-dimensional output of the la
 
 
 
-resnet34v512.bin can be gotten from https://drive.google.com/drive/u/0/folders/1vEsq87UsyTJw2dlNCTsEzf-eENm1GjG_
+resnet34v512.bin can be gotten from https://drive.google.com/file/d/1ddcMjpRd5tGta4pxCs5HrWk72ACiUvEl/view?usp=share_link
+
